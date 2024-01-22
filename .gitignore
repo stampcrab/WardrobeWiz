@@ -1,0 +1,11 @@
+.vs
+
+Customers/bin
+Products/bin
+Orders/bin
+Search/bin
+
+Customers/obj
+Products/obj
+Orders/obj
+Search/obj
