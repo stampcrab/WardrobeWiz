@@ -4,8 +4,10 @@ Customers/bin
 Products/bin
 Orders/bin
 Search/bin
+WardrobeWizUnitTests/bin
 
 Customers/obj
 Products/obj
 Orders/obj
 Search/obj
+WardrobeWizUnitTests/obj
